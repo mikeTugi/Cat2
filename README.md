@@ -25,3 +25,12 @@ Cat2/
 ├── Fan.java
 ├── TV.java
 └── ExceptionHandlingDemo.java
+
+## How to Run
+1. Clone the repository:  
+   `git clone https://github.com/mikeTugi/Cat2.git`
+2. Open in IntelliJ (or your favorite IDE).
+3. Run the Main class to see the output.
+
+## Author
+- Michael Mutugi
